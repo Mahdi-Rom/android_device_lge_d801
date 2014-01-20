@@ -8,5 +8,10 @@
    "repository": "Mahdi-Rom/android_kernel_lge_msm8974",
    "target_path": "kernel/lge/msm8974",
    "branch":      "kk-4.4"
+ },
+ {
+   "repository":  "Mahdi-Rom/android_vendor_lge",
+   "target_path": "vendor/lge",
+   "branch":      "kk-4.4"
  }
 ]
