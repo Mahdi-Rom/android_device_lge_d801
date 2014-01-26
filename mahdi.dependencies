@@ -1,16 +1,16 @@
 [
  {
-   "repository": "Mahdi-Rom/android_device_lge_g2-common",
+   "repository":  "android_device_lge_g2-common",
    "target_path": "device/lge/g2-common",
    "branch":      "kk-4.4"
  },
  {
-   "repository": "Mahdi-Rom/android_kernel_lge_msm8974",
+   "repository":  "android_kernel_lge_msm8974",
    "target_path": "kernel/lge/msm8974",
    "branch":      "kk-4.4"
  },
  {
-   "repository":  "Mahdi-Rom/android_vendor_lge",
+   "repository":  "android_vendor_lge",
    "target_path": "vendor/lge",
    "branch":      "kk-4.4"
  }
